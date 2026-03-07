@@ -1,0 +1,18 @@
+body {
+    background-color: #EBF5F0;
+}
+.bold {
+    font-weight: bold;
+}
+.black {
+    color: #000000;
+}
+.red {
+    color: #FF0000;
+}
+.yellow {
+    color: #FFFF00;
+}
+.white {
+    color: #FFFFFF;
+}
